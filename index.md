@@ -7,3 +7,7 @@ This was for learning purpose to learn the markdown
 int i = 0;
 ObjectTemp obj = new ObjectTemp();
 ```
+
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
